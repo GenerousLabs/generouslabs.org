@@ -1,25 +1,13 @@
-# Gatsby Deck
+# GeneroUS Labs
 
-Create presentations using Gatsby & React.
+We build digital products imbued with a set of values.
 
----
-
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+We believe cooperation is humanity's greatest challenge.
 
 ---
 
-# 🤫
+Our values are based on [free culture](https://en.wikipedia.org/wiki/Free-culture_movement).
 
 ---
 
-## Slides are written in Markdown!
-
-Here's the source of the first slide:
-
-    # Gatsby Deck
-
-    Create presentations using Gatsby & React.
+We're working on an early prototype. More info soon.
