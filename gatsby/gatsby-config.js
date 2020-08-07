@@ -6,7 +6,7 @@ module.exports = {
     description: `Generous Labs makes ethical software that we believe enables transformational change.`,
     siteUrl: process.env.SITE_URL || `https://generouslabs.org/`,
     logo: `logo.png`,
-    copyright: `© YYYY Flex. All rights reserved.`,
+    copyright: `© 2020 Generous Labs. CC-BY-SA-NC`,
     headerLinks: [
       {
         title: `Home`,
