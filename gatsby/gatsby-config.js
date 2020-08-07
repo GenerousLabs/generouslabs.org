@@ -1,10 +1,10 @@
-require(`dotenv`).config()
+require(`dotenv`).config();
 
 module.exports = {
   siteMetadata: {
-    title: `Flex Starter`,
-    description: `Starter for the Flex theme.`,
-    siteUrl: process.env.SITE_URL || `http://localhost`,
+    title: `Generous Labs - Ethical software studio`,
+    description: `Generous Labs makes ethical software that we believe enables transformational change.`,
+    siteUrl: process.env.SITE_URL || `https://generouslabs.org/`,
     logo: `logo.png`,
     copyright: `© YYYY Flex. All rights reserved.`,
     headerLinks: [
@@ -12,21 +12,13 @@ module.exports = {
         title: `Home`,
         path: `/`,
       },
-      {
-        title: `About`,
-        path: `/about`,
-      },
     ],
     footerLinks: [
       {
         title: `Home`,
         path: `/`,
       },
-      {
-        title: `About`,
-        path: `/about`,
-      },
     ],
   },
   plugins: [`gatsby-theme-flex`],
-}
+};
